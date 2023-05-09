@@ -10,5 +10,5 @@
 - Укажите "Температуру" (от 0 до 1): чем больше, тем уникальнее будут ответы на одни и теже вопросы, но и время генерации больше;
 - Вставьте шорткод [GPT_vopros] в любую страницу сайта WordPress для загрузки диалогового окна
 
-![Генерация комментариев GTP](https://github.com/websochka/WP_comment_GPT/blob/main/comments_gpt.jpg)
+![Генерация вопрос-ответ GTP](https://github.com/websochka/WP_chat_GPT/blob/main/Screenshot.png)
 
