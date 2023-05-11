@@ -5,7 +5,6 @@ Plugin URI: https://sochka.com
 Description: Вставьте шорткод [GPT_vopros] в любую страницу, где требуется вывести окно чата
 Version: 0.1
 Requires at least: 5.2
-Requires PHP:      7.4
 Author: Yaroslav Sochka
 Author URI: https://sochka.com
 License: GPLv2 or later
